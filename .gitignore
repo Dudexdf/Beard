@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+dist/
+build/
+
+# Переменные окружения (пароли, ключи)
+.env
+.env.local
+.env.*.local
+
+# Логи
+*.log
+npm-debug.log*
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Редакторы и IDE
+.vscode/
+.idea/
