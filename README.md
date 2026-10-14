@@ -14,7 +14,7 @@ Beard — веб-приложение для онлайн-записи в бар
 - **Деплой:** Vercel (фронт) + Railway (бэк) + Neon (БД)
 
 # Ссылки
-- Сайт: (будет добавлено после деплоя)
+- Сайт: beard-site.vercel.app
 - Макет: https://www.figma.com/design/XUo7FRMA6gey9wveP4Mxpe/Untitled?m=auto&t=y13yNRlVilmiZp7P-6
 - Прототип: (будет добавлено после задания 2)
 
